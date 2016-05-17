@@ -8,8 +8,3 @@ Free Market economy: A economy controlled by the people testing
 
 
 
-
-
-
-
-
