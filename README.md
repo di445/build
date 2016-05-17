@@ -7,3 +7,9 @@ Public sector:That part of an economy that is controlled by national, state, and
 Free Market economy: A economy controlled by the people testing
 
 
+
+
+
+
+
+
