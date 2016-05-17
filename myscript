@@ -1,0 +1,2 @@
+while inotifywait -e close_write /home/lfmastudent/build/build/README.md; do .//home/lfmastudent/build/build/commit.sh; done
+
