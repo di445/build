@@ -1,2 +1,2 @@
 ##Quiz 6
-Market Signals 
+Market Signals:Signs that are used by consumers and producers to determine how much of a good to buy or sell at a give price and time
