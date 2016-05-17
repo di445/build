@@ -3,4 +3,4 @@ Market Signals:Signs that are used by consumers and producers to determine how m
 Durable Good:A good expected to last more than three years
 Black Market:An alternative, illegal system in which one can exchange goods.
 Private sector:That part of an economy that is controlled by private individuals, businesses, and organizations
-Public sector 
+Public sector:That part of an economy that is controlled by national, state, and local governments
