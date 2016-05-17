@@ -4,4 +4,4 @@ Durable Good:A good expected to last more than three years
 Black Market:An alternative, illegal system in which one can exchange goods.
 Private sector:That part of an economy that is controlled by private individuals, businesses, and organizations
 Public sector:That part of an economy that is controlled by national, state, and local governments
-Free Market economy: 
+Free Market economy: A economy controlled by the people
